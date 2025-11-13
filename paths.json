@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/phonepe-ethics-xwalk/:/",
+    "/content/phonepe-ethics-xwalk/configuration:/.helix/config.json",
+    "/content/phonepe-ethics-xwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/phonepe-ethics-xwalk/"
   ]
 }
